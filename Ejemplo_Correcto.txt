@@ -1,0 +1,6 @@
+in
+nombre::gabriela_sanroman
+dni::42.234.345
+ingresarPaciente (nombre, dni)
+asignarHabitacion (dni, 234)
+out
